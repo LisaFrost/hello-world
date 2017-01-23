@@ -1,2 +1,2 @@
 # hello-world
-Learning GitHug
+Learning how to navigate in GitHub.
